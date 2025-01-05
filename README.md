@@ -95,10 +95,6 @@ Este projeto inclui testes básicos. Para executá-los:
    dotnet test
    ```
 
-## 🌟 Contribuições
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e sugestões.
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
